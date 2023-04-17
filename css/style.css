@@ -293,6 +293,13 @@ body {
   #controller_select {
     right: 80px;
   }
+  #logort { 
+     margin-top: 0px; 
+     width: 100%; 
+     max-width: 100px; 
+     border: 0px; 
+     border-radius: 0px; 
+   }
 }
 
 @media only screen and (max-width: 500px) and (max-height: 400px) {
