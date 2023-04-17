@@ -81,6 +81,12 @@ if (sgbEnabled) {
   $("canvas").height = SCREEN_HEIGHT;
 }
 
+if ("serviceWorker" in navigator) {
+  // register service worker
+  navigator.serviceWorker.register("service-worker.js");
+}
+
+
 // Extract stuff from the vue.js implementation in demo.js.
 class VM {
   constructor() {
