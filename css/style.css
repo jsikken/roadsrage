@@ -328,6 +328,13 @@ body {
   #controller {
     display: none;
   }
+  #logort { 
+     margin-top: 0px; 
+     width: 100%; 
+     max-width: 100px; 
+     border: 0px; 
+     border-radius: 0px; 
+   }
 }
 
 /* Devices large enough for landscape */
