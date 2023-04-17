@@ -2,15 +2,15 @@
 <html>
   <head>
     <style>
+      @font-face { font-family: RetroGaming; src: url('RetroGaming.ttf'); } 
+      h1 {
+         font-family: RetroGaming
+      }
       .center {
         margin: auto;
         width: 60%;
         border: 3px solid #73AD21;
         padding: 10px;
-      }
-      @font-face { font-family: RetroGaming; src: url('RetroGaming.ttf'); } 
-      h1 {
-         font-family: RetroGaming
       }
       </style>
     <meta charset="utf-8" />
@@ -24,7 +24,7 @@
     
   </head>
   <body>
-    <div id="brand"><h1>Roads Tech Studios</h1></div>
+    <div id="brand"><h1><span style="font-size: 12px;">Roads Tech Studios</span></h1></div>
     <div id="game">
       <canvas id="mainCanvas" width="256" height="224">No Canvas Support</canvas>
     </div>
