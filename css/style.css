@@ -269,13 +269,13 @@ body {
     width: 100% !important;
     height: auto !important;
   }
- #logort { 
-     margin-top: 0px; 
-     width: 100%; 
-     max-width: 100px; 
-     border: 0px; 
-     border-radius: 0px; 
-   }
+   #logort {  
+      margin-top: 0px;  
+      width: 100%;  
+      max-width: 100px;  
+      border: 0px;  
+      border-radius: 0px;  
+    }
 }
 
 @media only screen and (max-device-width: 320px) and (orientation: portrait) {
@@ -342,9 +342,13 @@ body {
   #controller {
     display: none;
   }
-#logort {
-    display: none;
-  }
+  #logort {  
+      margin-top: 0px;  
+      width: 100%;  
+      max-width: 100px;  
+      border: 0px;  
+      border-radius: 0px;  
+    }
 }
 
 /* Devices large enough for landscape */
