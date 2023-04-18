@@ -62,7 +62,7 @@ background-image: url(/logort.png);
   height: 210px;
   width: 100%;
   touch-action: none;
-  opacity: 0.8;
+  opacity: 1;
 }
 
 #controller_dpad {
