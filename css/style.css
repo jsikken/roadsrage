@@ -53,6 +53,7 @@ background-image: url(/logort.png);
   image-rendering: pixelated;
   image-rendering: crisp-edges;
   height: 100%;
+  box-shadow: 3px 3px 10px 3px #dddddd;
 }
 
 #controller {
