@@ -44,6 +44,7 @@ background-image: url(/logort.png);
   width: 100%;
   height: 100%;
   touch-action: none;
+  box-shadow: 3px 3px 10px 3px #dddddd;
 }
 
 #game canvas {
