@@ -18,10 +18,11 @@ background-repeat: repeat;
 }
 
 #splashlogo {
-    width: 200px;
-    height: 200px;
+  max-width: 100%;
+  height: auto;
 }
 
 #splashlogo img {
- width: 100px;
+  max-width: 100%;
+  height: auto;
 }
