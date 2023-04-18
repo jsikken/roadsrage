@@ -358,7 +358,7 @@ background-image: url(/logort.png);
   #controller {
     bottom: 50%;
     transform: translateY(50%);
-    opacity: 0.5;
+    opacity: 1;
   }
 	#logort {
 		display: none;
