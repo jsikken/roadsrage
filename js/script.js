@@ -978,7 +978,7 @@ class Gamepad {
 
 class Audio {
   constructor(module, e) {
-    this.started = false;
+    this.started = true;
     this.module = module;
     this.buffer = makeWasmBuffer(
       this.module,
