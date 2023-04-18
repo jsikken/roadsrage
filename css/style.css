@@ -162,13 +162,13 @@ background-image: url(/logort.png);
   align-items: center;
   font-weight: bold;
   font-size: 32px;
-  color: #440f1f;
+  color: #ffffff;
   line-height: 64px;
   width: 64px;
   height: 64px;
   border-radius: 64px;
-  background: #870a4c;
-  background: radial-gradient(ellipse at center, #ab1465 0%, #8b1e57 100%);
+  background: #7869b9;
+  background: radial-gradient(ellipse at center, #584d85 0%, #6c60a4 100%);
   box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.2);
 }
 
