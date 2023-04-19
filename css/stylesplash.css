@@ -16,7 +16,7 @@ background-repeat: repeat;
   -webkit-user-select: none;
   overflow: hidden;
 }
-#div {
+#splashlogo {
   width: 100px;
   height: 100px;
   position: absolute;
