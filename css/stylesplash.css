@@ -20,5 +20,7 @@ background-repeat: repeat;
 img {
   width: 60%;
   margin: auto;
-  display: block;
+  display: flex;
+  justify-content: center;
+  height: 100px;
 }
