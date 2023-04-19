@@ -17,7 +17,7 @@ background-repeat: repeat;
   overflow: hidden;
 }
 
-#splashlogo {
+#img {
   width: 100px;
   height: 100px;
   position: absolute;
@@ -26,11 +26,4 @@ background-repeat: repeat;
   margin: -50px 0 0 -50px;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-}
-
-#img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 50%;
 }
