@@ -27,3 +27,10 @@ background-repeat: repeat;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
+#img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50%;
+}
