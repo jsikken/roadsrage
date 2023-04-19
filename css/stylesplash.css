@@ -26,5 +26,4 @@ background-repeat: repeat;
   margin: -50px 0 0 -50px;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
 }
