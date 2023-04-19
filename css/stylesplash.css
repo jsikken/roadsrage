@@ -19,8 +19,11 @@ background-repeat: repeat;
 
 img {
   width: 60%;
-  margin: auto;
   display: flex;
   justify-content: center;
   height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -50px 0 0 -50px;
 }
