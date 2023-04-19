@@ -24,4 +24,5 @@ background-repeat: repeat;
   left: 50%;
   margin: -50px 0 0 -50px;
  text-align: center;
+ text-shadow: 2px 2px #000000;
 }
